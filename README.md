@@ -1,16 +1,10 @@
 # maquina_cafe_app
 
-A new Flutter project.
+Proyecto de Administración de Proyectos de Software (Virtual) | 2023-C-3 | Willis Ezequiel Polanco Caraballo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Proyecto TDD (10 Puntos) - Individual
+La metodología Test Driven Development consiste en construir primero los casos de prueba, y a partir de la técnica de refactorización desarrollar el producto de software.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A continuación se le entrega una guía de la práctica, con sus casos de prueba, a partir de los cuáles deberá construir el proyecto en una versión funcio
