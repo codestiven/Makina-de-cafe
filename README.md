@@ -1,5 +1,8 @@
 # maquina_cafe_app
 
+![Descripción de la imagen](https://raw.githubusercontent.com/codestiven/Makina-de-cafe/main/Captura%20de%20pantalla%202025-01-23%20162122.png)
+
+
 Proyecto de Administración de Proyectos de Software (Virtual) | 2023-C-3 | Willis Ezequiel Polanco Caraballo
 
 ## Getting Started
